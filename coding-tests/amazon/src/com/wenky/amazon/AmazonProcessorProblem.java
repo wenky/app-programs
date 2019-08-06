@@ -1,6 +1,4 @@
-package com.wenky.ds;
-
-import sun.plugin2.gluegen.runtime.CPU;
+package com.wenky.amazon;
 
 import java.util.ArrayList;
 import java.util.Arrays;

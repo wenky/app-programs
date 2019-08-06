@@ -1,4 +1,4 @@
-package com.wenky.ds;
+package com.wenky.amazon;
 
 import java.util.ArrayList;
 import java.util.Arrays;
