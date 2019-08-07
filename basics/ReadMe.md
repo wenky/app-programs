@@ -8,7 +8,7 @@
 }
 
 
-|
+ | | | |
 ---|---|---|---|
 class Child{ int m1(){} } | class Child2{  int m1() throws RunTimeException{} } | class Child3 {  int m1() throws FileNotFoundException{} } | class Child4{  void m1() throws Exception{} } | 
 ```
