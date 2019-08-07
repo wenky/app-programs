@@ -7,9 +7,11 @@
   int m1() throws Exception{}
 }
 ```
+* 
 ```java 
 int m1()
+```
+* 
+```java
 int m1() throws RunTimeException
-int m1() throws FileNotFoundException
-void m1() throws Exception 
 ```
