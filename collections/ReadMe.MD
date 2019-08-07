@@ -1,6 +1,6 @@
 ## Collections
 ### HashMap
-_ **Internal Implementation** _
+__Internal Implementation__ HashMaps are essentially a key-value pair
 
 * Consider following Map.
 ```java 
