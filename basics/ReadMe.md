@@ -6,23 +6,9 @@
  class Parent{
   int m1() throws Exception{}
 }
-//1
-class Child{
-  int m1(){}
-}
 
-//2
-class Child2{
-  int m1() throws RunTimeException{}
-}
 
-//3
-class Child3{
-  int m1()throws FileNotFoundException{};
-}
-
-//4
-class Child4{
-  void m1() throws Exception{}
-}
+|
+---|---|---|---|
+class Child{ int m1(){} } | class Child2{  int m1() throws RunTimeException{} } | class Child3 {  int m1() throws FileNotFoundException{} } | class Child4{  void m1() throws Exception{} } | 
 ```
