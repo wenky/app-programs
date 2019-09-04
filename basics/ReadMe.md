@@ -19,9 +19,15 @@ void m1() throws Exception
 * How do you ensure that 2 objects are equal if their hashcodes are equal>
 * Can an enum be extended?
 
+## GC
+* young GC
+
 ## Programs
 * swap without using tmp variable
 * Reverse a string without recursion and iteration?
+* Find the second largest in an array.
+* intersection of 2 lists
+* Rotation of string exists
 
 ## JDBC
 addbatch/setbatch in jdbc
