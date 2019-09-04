@@ -17,3 +17,11 @@ void m1() throws Exception
 * store emp objects in the order of their salary
 * Two objects are equal if their hashcodes are equal.Yes/No?
 * How do you ensure that 2 objects are equal if their hashcodes are equal>
+* Can an enum be extended?
+
+## Programs
+* swap without using tmp variable
+* Reverse a string without recursion and iteration?
+
+## JDBC
+addbatch/setbatch in jdbc
