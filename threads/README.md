@@ -7,3 +7,5 @@
 3. Producer-Consumer Problem
 
 4. Three Threads X,Y,Z.How to ensure that Z starts after completion of Y and Y starts after completion of X
+
+5. DeadLocks - How to identify & overcome 

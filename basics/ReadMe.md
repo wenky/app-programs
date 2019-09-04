@@ -13,3 +13,7 @@ int m1() throws RunTimeException
 int m1() throws FileNotFoundException
 void m1() throws Exception 
 ```
+
+* store emp objects in the order of their salary
+* Two objects are equal if their hashcodes are equal.Yes/No?
+* How do you ensure that 2 objects are equal if their hashcodes are equal>

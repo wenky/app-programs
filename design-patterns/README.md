@@ -4,4 +4,6 @@ Design Patterns:
 2. Factory,Abstract Factory
 3. Builder,
 4. Decorator
-4. Facade, Adapter
+5. Facade, Adapter
+6. Given a list of strings and need to find a frequency count for the strings.
+7. Flyweight Design Pattern

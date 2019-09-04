@@ -1,4 +1,6 @@
 ## Collections
+
+* Difference between Array/ArrayList/LinkedList
 ### HashMap
 __Internal Implementation__ HashMaps are essentially a key-value pair
 
@@ -15,7 +17,6 @@ employeeSalaryMap.put(raju,30000);
   * Time complexities of HashMap,List.
   * Can null keys be placed in TreeMap?
   * You have millions of Strings in a collection and need the frequency count  of the strings.
-
 
   ### References
   * _https://javahungry.blogspot.com/2013/08/hashing-how-hash-map-works-in-java-or.html_
