@@ -4,7 +4,7 @@
 * props Vs State
 * what are the Lifecycle methods available in React & what are going to deprecated in React 3.16?
 * React Router (components in  Version 4)
-* Pure Component
+* Pure Component? Difference between pure & stateless component.
 * ShadowDOM Vs Virtual DOM
 * why react uses className over class attribute?
 * How events are handled different in React?
