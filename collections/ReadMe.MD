@@ -1,6 +1,7 @@
 ## Collections
 
 * Difference between Array/ArrayList/LinkedList
+* What is Heap Pollution?
 ### HashMap
 __Internal Implementation__ HashMaps are essentially a key-value pair
 
